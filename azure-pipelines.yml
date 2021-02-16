@@ -6,7 +6,7 @@ pool:
 
 parameters:
   - name: runSecondTask
-    default: false
+    default: true
 
 steps:
 - script: echo Hello, world!
